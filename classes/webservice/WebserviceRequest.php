@@ -801,7 +801,7 @@ class WebserviceRequestCore
 
     protected function shopExists($params)
     {
-        if (count(self::$shopIDs)) {
+        if (is_iterable(self::$shopIDs)) {
             return true;
         }
 

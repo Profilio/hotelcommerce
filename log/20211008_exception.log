@@ -1,0 +1,28 @@
+*ERROR* 	2021/10/08 - 06:14:36: Link to database cannot be established:SQLSTATE[HY000] [2002] No such file or directory at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 06:24:38: Link to database cannot be established:SQLSTATE[HY000] [2002] No such file or directory at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 06:24:38: Link to database cannot be established:SQLSTATE[HY000] [2002] No such file or directory at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 21:42:19: Shop not found at line 404 in file classes/shop/Shop.php
+*ERROR* 	2021/10/08 - 21:42:19: Shop not found at line 404 in file classes/shop/Shop.php
+*ERROR* 	2021/10/08 - 21:44:33: Link to database cannot be established:SQLSTATE[HY000] [2002] Operation timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 21:44:39: Link to database cannot be established:SQLSTATE[HY000] [2002] Operation timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 21:45:04: Link to database cannot be established:SQLSTATE[HY000] [2002] Operation timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 21:50:34: Shop not found at line 404 in file classes/shop/Shop.php
+*ERROR* 	2021/10/08 - 21:50:35: Shop not found at line 404 in file classes/shop/Shop.php
+*ERROR* 	2021/10/08 - 22:16:40: Link to database cannot be established:SQLSTATE[HY000] [2002] Operation timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 22:16:45: Link to database cannot be established:SQLSTATE[HY000] [2002] Operation timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:05:11: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:05:11: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:19:40: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:19:41: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:55:22: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:55:22: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:55:25: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:55:25: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:56:48: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:56:49: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:57:07: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:57:08: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:57:10: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:57:10: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:57:12: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2021/10/08 - 23:57:12: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known at line 102 in file classes/db/DbPDO.php

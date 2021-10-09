@@ -146,13 +146,13 @@ class WebserviceOutputJSON implements WebserviceOutputInterface
             }
             $this->currentEntity = array();
         }
-        if (count($this->currentAssociatedEntity)) {
+        if (is_iterable($this->currentAssociatedEntity)) {
             $current = array();
             foreach ($this->currentAssociatedEntity as $element) {
-                $current[$element['key']] = $element['value'];
-            }
             //$this->currentEntity['associations'][$element['name']][][$element['key']] = $element['value'];
             $this->currentEntity['associations'][$element['name']][] = $current;
+                $current[$element['key']] = $element['value'];
+            }
             $this->currentAssociatedEntity = array();
         }
     }
